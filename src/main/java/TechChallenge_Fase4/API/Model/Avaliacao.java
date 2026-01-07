@@ -18,5 +18,4 @@ public class Avaliacao {
     private Integer nota;
 
     private Date dataEnvio;
-    //teste
 }
